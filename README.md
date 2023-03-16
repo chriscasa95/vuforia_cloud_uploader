@@ -1,6 +1,15 @@
 # Vuforia Cloud Uploader
 
-Vuforia Cloud Uploader is a CLI programm to upload images to targentmanager for Vufora cloud. The progam is using the the custom [VWS authentication](https://library.vuforia.com/web-api/vuforia-web-api-authentication#vws-authentication)
+Vuforia Cloud Uploader is a CLI programm to upload images to targentmanager for Vufora cloud. The progam is using the the custom [VWS authentication](https://library.vuforia.com/web-api/vuforia-web-api-authentication#vws-authentication).
+
+
+Functions:
+
+- Upload image.
+- Upload images extracted from a given video.
+- Upload images from given folder.
+
+See [vuforia_uploader.py](./vuforia_uploader.py) for deatailed CLI description an capabilities.
 
 ## CLI .exe usage example for uploading images
 
